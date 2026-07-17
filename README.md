@@ -1,6 +1,6 @@
 
 
-# The Big Bank Challenges-Finance-Analyser
+# The Bank Challenges-Finance-Analyser
 
 ![sql4](pexels-bala-5406959.jpg)
 
